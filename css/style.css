@@ -810,8 +810,8 @@ label {
     margin-bottom: 20px;
     
     text-align: justify;
-    -ms-text-justify: distribute-all-lines;
-    text-justify: distribute-all-lines;
+    /*-ms-text-justify: distribute-all-lines;
+    text-justify: distribute-all-lines;*/
   }
     .controls .filter {
       display: inline-block;
@@ -939,7 +939,7 @@ label {
     -moz-border-radius: 0;
     border-radius: 0;
     border: 0;
-    box-shadow: ;
+    /*box-shadow: ;*/
   }
  
 #blog {
